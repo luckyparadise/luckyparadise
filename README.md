@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucky Nwachukwu
 - 👀 I’m interested in Web3 governance and the future of the internet
-- 🌱 I’m currently learning about the IPFS, and Filecoin Ecosystem
+- 🌱 Arbitrum ex Filecoin
 - 💞️ I’m looking to collaborate on product designs, governance conversations on Web3 projects
 
 
